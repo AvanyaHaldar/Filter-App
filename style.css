@@ -16,6 +16,7 @@
 }
 
 canvas {
+    margin-top: 35px;
     animation-name: Gradient;
     animation-iteration-count: infinite;
     animation-duration: 4s;
@@ -29,4 +30,12 @@ canvas {
     to {
         box-shadow: 1px 1px 50px yellow;
     }
+}
+
+label{
+    font-size: 20px;
+}
+
+select{
+    font-size: 20px;
 }
